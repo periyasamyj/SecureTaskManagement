@@ -2,7 +2,7 @@ import axios from "axios";
 
 export default class ApiService {
 
-    static API_URL = "http://10.182.108.199:3030/api"
+    static API_URL = "https://securetaskmanagementserver-production.up.railway.app/api"
 
 
     static saveToken(token) {
