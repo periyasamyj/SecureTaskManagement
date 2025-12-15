@@ -18,7 +18,7 @@ const Navbar = () => {
         <nav className="navbar">
             <div className="logo">
                 <Link to="/" className="logo-link">
-                    Task Manager
+                  
                 </Link>
             </div>
 
